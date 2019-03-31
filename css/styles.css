@@ -1,0 +1,63 @@
+
+div{
+  color: navy;
+}
+
+img {
+  opacity: 0.2;
+  filter: alpha(opacity=100); /* For IE8 and earlier */;
+}
+li{
+  color:green ;
+}
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+body {
+
+  padding-top: 5rem;
+
+}
+ul {
+list-style: none;
+padding: 0;
+margin-bottom: 10%;
+font-size: 1em;
+display: flex;
+justify-content: space-evenly;
+font-family: arial;
+font-size: 2em;
+}
+
+
+li#lower {
+  margin-top: 5%;
+  }
+
+li#lowest {
+  margin-top: 15%;
+  }
+div.contrast {
+background-color: rgb(0,0,0);
+color: rgb(255,255,255);
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.examples {
+  font-size: 12px;
+}
+
+.example {
+  margin-right: 14px;
+}
+div{
+
+}
