@@ -1,3 +1,7 @@
+body, html {
+  height: 100%;
+  background-image: url("Images/Fitness.jpg");
+}
 
 div{
   color: navy;
@@ -5,7 +9,8 @@ div{
 
 img {
   opacity: 0.2;
-  filter: alpha(opacity=100); /* For IE8 and earlier */;
+  filter: alpha(opacity=100);
+  full size;
 }
 li{
   color:green ;
@@ -19,7 +24,7 @@ body {
 }
 
 body {
-
+  background-image: url("Images/Fitness.jpg");
   padding-top: 5rem;
 
 }
