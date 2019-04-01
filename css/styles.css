@@ -4,7 +4,7 @@ body, html {
 }
 
 div{
-  color: navy;
+  color: white;
 }
 
 img {
@@ -64,5 +64,11 @@ flex-direction: column;
   margin-right: 14px;
 }
 div{
+
+}
+
+.something-big {
+  font-size: 15em;
+  text-align: center;
 
 }
