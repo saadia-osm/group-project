@@ -44,6 +44,7 @@ li#lower {
   margin-top: 5%;
   }
 
+
 li#lowest {
   margin-top: 15%;
   }
@@ -68,17 +69,10 @@ div{
 
 }
 
-.something-bigger {
-  color: navy;
-  font-size: 4em;
-  text-align: center;
-
-}
-
 .something-big {
-  color: navy;
-  font-size: 8em;
+  font-size: 15em;
   text-align: center;
+
 }
 
 h1{ color: navy;
@@ -88,7 +82,4 @@ h1{ color: navy;
 h2{
 color: navy;
   font-size: 24px;
-p{
-  color: navy;
-}
 }
