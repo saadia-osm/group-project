@@ -68,12 +68,17 @@ div{
 
 }
 
-.something-big {
+.something-bigger {
   font-size: 15em;
   text-align: center;
 
 }
 
+.something-big {
+  font-size: 10em;
+  text-align: center;
+}
+  
 h1{ color: navy;
   font-size: 100px;
 
