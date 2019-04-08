@@ -69,16 +69,18 @@ div{
 }
 
 .something-bigger {
-  font-size: 15em;
+  color: navy;
+  font-size: 4em;
   text-align: center;
 
 }
 
 .something-big {
-  font-size: 10em;
+  color: navy;
+  font-size: 8em;
   text-align: center;
 }
-  
+
 h1{ color: navy;
   font-size: 100px;
 
